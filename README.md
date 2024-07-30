@@ -14,4 +14,6 @@ While I am setting up this account and migrating all my labs and projects from O
 - 💬 Ask me about ... Hardware tunning, BIOS or EUFI, as well as VRM's
 - 📫 How to reach me: ... TBA
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... #77 Netional on Hwbot, and Team Captain of my OverClocking team
+- ⚡ Fun fact: ... #77 place  Nationally on Hwbot, and Team Captain of my OverClocking team
+
+---
