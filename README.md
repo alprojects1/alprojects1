@@ -20,6 +20,6 @@ While I am setting up this account and migrating all my labs and projects from O
 - ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) ... #77 National on Hwbot, and Team Captain of my OverClocking team
 ---
 
-### My Homelab Setup 🖥️/🥼
+### My Setup & Homelab🖥️/🥼
 
 <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png.jpg" alt="Profile Image" width="600"/>
