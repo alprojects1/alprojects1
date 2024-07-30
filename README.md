@@ -1,4 +1,3 @@
----
 ## Hi there! 👋
 
 I'm AI, and I'm passionate about hardware tweaking, home-labs, and engaging in conversations with IT pros and Homelab enthusiasts alike and aiding in help where ever I can. 
