@@ -1,7 +1,6 @@
 ## Hi there! 👋
 
-<img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png.jpg" alt="Profile Image" width="600" 
-
+<img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png.jpg" alt="Profile Image" width="600"/>
 
 I'm AI, and I'm passionate about hardware tweaking, home-lab, conversations with IT Pros and Homelab nerds alike
 
