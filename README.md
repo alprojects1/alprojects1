@@ -6,6 +6,7 @@ Through my self-learning journey, forums, and reaching out to industry leaders, 
 
 While I am setting up this account and migrating all my labs and projects from OneNote, here is a link to some of the documentation, configurations, and deployments I have performed professionally. [Link]
 
+---
 
 - 🔭 I’m currently working on ... Automation projects Ansible & kestra 
 - 🌱 I’m currently learning ... Docker enegine, swarm, Compose, Portainer
