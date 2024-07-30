@@ -7,7 +7,7 @@ Through my self-learning journey, forums, and reaching out to industry leaders, 
 While I am setting up this account and migrating all my labs and projects from OneNote, here is a link to some of the documentation, configurations, and deployments I have performed professionally. [Link]
 
 ---
-- <span style="color:blue"><b>🔭 **I’m currently working on**__</b></span> ... Automation projects Ansible & kestra
+- ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-blue) ... Automation projects Ansible & kestra
 - 🌱 I’m currently learning ... Docker enegine, swarm, Compose, Portainer
 - 👯 I’m looking to collaborate on ... Any homelab how-to or documention write ups
 - 🤔 I’m looking for help with ... Documention and Best practices
