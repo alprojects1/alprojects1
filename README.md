@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-![Profile Image](https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png.jpg)
+                                                                                                                                                                              ![Profile Image](https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png.jpg)
 
 I'm AI, and I'm passionate about hardware tweaking, home-lab, conversations with IT Pros and Homelab nerds alike
 
@@ -16,4 +16,3 @@ While I am getting this account setup, and migrating all my labs and projects fr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
