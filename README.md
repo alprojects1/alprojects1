@@ -1,10 +1,11 @@
 ## Hi there! 👋
 
-I'm AI, and I'm passionate about hardware tweaking, home-lab, conversations with IT Pros and Homelab nerds alike
+I'm AI, and I'm passionate about hardware tweaking, home-labs, and engaging in conversations with IT pros and Homelab enthusiasts alike and aiding in help where ever I can. 
 
-Through my own self learning, forums, and teaching out to industry leaders, as well as validating my understanding with big communities, writing tutorials, and write-ups on complex topics but in an easy to understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours wiki, documentation, and reaching out to vendor or project help.
+Through my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations.
 
-While I am getting this account setup, and migrating all my labs and projects from OneNote, here is a link to some of the Documention, configuration & Deplyoments I have been able to perform professionally. <link>
+While I am setting up this account and migrating all my labs and projects from OneNote, here is a link to some of the documentation, configurations, and deployments I have performed professionally. [Link]
+
 
 - 🔭 I’m currently working on ... Automation projects Ansible & kestra 
 - 🌱 I’m currently learning ... Docker enegine, swarm, Compose, Portainer
