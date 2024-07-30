@@ -7,7 +7,7 @@ Through my self-learning journey, forums, and reaching out to industry leaders, 
 While I am setting up this account and migrating all my labs and projects from OneNote, here is a link to some of the documentation, configurations, and deployments I have performed professionally. [Link]
 
 ---
-## What I am doing 🤓
+## What I am doing! 🤓
 
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-blue) ... Automation projects Ansible & kestra
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-blue) ... Docker Engine, swarm, Compose, Portainer
@@ -19,7 +19,7 @@ While I am setting up this account and migrating all my labs and projects from O
 - ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) ... #77 National on Hwbot, and Team Captain of my OverClocking team
 
 ---
-## My Setup & Homelab 🖥️/🥼
+## My Setup & Homelab! 🖥️/🥼
 
 | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png" alt="Profile Image" width="600"/> | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk hq.png" alt="Profile Image" width="600"/> |
 | --- | --- |
