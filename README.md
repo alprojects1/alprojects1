@@ -1,3 +1,4 @@
+---
 ## Hi there! 👋
 
 I'm AI, and I'm passionate about hardware tweaking, home-labs, and engaging in conversations with IT pros and Homelab enthusiasts alike and aiding in help where ever I can. 
@@ -7,6 +8,8 @@ Through my self-learning journey, forums, and reaching out to industry leaders, 
 While I am setting up this account and migrating all my labs and projects from OneNote, here is a link to some of the documentation, configurations, and deployments I have performed professionally. [Link]
 
 ---
+## What I am doing 🤓
+
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-blue) ... Automation projects Ansible & kestra
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-blue) ... Docker engine, swarm, Compose, Portainer
 - ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-blue) ... Any homelab how-to or documentation write-ups
@@ -15,5 +18,6 @@ While I am setting up this account and migrating all my labs and projects from O
 - ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-blue) ... TBA
 - ![Pronouns](https://img.shields.io/badge/-Pronouns-blue) ... He/Him
 - ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) ... #77 National on Hwbot, and Team Captain of my OverClocking team
-
 ---
+
+### My Homelab Setup 🖥️/🥼
