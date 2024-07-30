@@ -8,12 +8,12 @@ While I am setting up this account and migrating all my labs and projects from O
 
 ---
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-blue) ... Automation projects Ansible & kestra
-- 🌱 I’m currently learning ... Docker enegine, swarm, Compose, Portainer
-- 👯 I’m looking to collaborate on ... Any homelab how-to or documention write ups
-- 🤔 I’m looking for help with ... Documention and Best practices
-- 💬 Ask me about ... Hardware tunning, BIOS or EUFI, as well as VRM's
-- 📫 How to reach me: ... TBA
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... #77 place  Nationally on Hwbot, and Team Captain of my OverClocking team
+- ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-blue) ... Docker engine, swarm, Compose, Portainer
+- ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-blue) ... Any homelab how-to or documentation write-ups
+- ![Looking for Help](https://img.shields.io/badge/-I’m%20looking%20for%20help%20with-blue) ... Documentation and Best practices
+- ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-blue) ... Hardware tuning, BIOS or UEFI, as well as VRMs
+- ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-blue) ... TBA
+- ![Pronouns](https://img.shields.io/badge/-Pronouns-blue) ... He/Him
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) ... #77 National on Hwbot, and Team Captain of my OverClocking team
 
 ---
