@@ -8,11 +8,6 @@ Through my own self learning, forums, and teaching out to industry leaders, as w
 
 While I am getting this account setup, and migrating all my labs and projects from OneNote, here is a link to some of the Documention, configuration & Deplyoments I have been able to perform professionally.
 
-<!--
-**Sh3llSh0cker/Sh3llSh0cker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
