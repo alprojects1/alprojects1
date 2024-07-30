@@ -24,5 +24,5 @@ While I am setting up this account and migrating all my labs and projects from O
 
 | | |
 | --- | --- |
-| <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png" alt="Profile Image" width="300"/> | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk_hq.png" alt="Profile Image" width="300"/> |
+| <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png" alt="Profile Image" width="300"/> | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk hq.png" alt="Profile Image" width="300"/> |
 ---
