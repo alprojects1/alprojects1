@@ -12,11 +12,11 @@ While I am setting up this account and migrating all my labs and projects from O
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-blue) > Automation Projects, Ansible & kestra
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-blue) > Docker Engine, Swarm, Compose, Portainer
 - ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-blue) > Any Homelab How-to or documentation write-ups
-- ![Looking for Help](https://img.shields.io/badge/-I’m%20looking%20for%20help%20with-blue) > Documentation and Best Practices
-- ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-blue) > Hardware tuning, BIOS/UEFI, as well as VRMs
+- ![Looking for Help](https://img.shields.io/badge/-I’m%20looking%20for%20help%20with-blue) > Documentation & Best-Practices
+- ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-blue) > Hardware Diagnostics, BIOS/UEFI & VRM Tunning 
 - ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-blue) > TBA
 - ![Pronouns](https://img.shields.io/badge/-Pronouns-blue) > He/Him
-- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) > #77 National on Hwbot, and Team Captain of my OverClocking team
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-blue) > #77 Nationally on https://hwbot.org/user/gizm01/
 
 ---
 ## My Setup & Homelab! 🖥️/🥼
