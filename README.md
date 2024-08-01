@@ -15,7 +15,7 @@ If I am not working on projects, learning something new, or continuing to improv
 - ![Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/`alprojects1@pm.me`
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
 - ![Pronouns](https://img.shields.io/badge/-Pronouns-purple)/`He/Him`
-- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`#77 Nationally on` https://hwbot.org/user/gizm01/
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`#77 Nationally on` https://hwbot.org/user/gizm01/  Part of https://foldingathome.org/diseases/
 ---
 ## My Setup & Homelab! 🖥️/🥼
 
