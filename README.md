@@ -12,10 +12,10 @@ If I am not working on projects, learning something new, or continuing to improv
 - ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-purple)/`Homelabs, Documentation, Scripting` 
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-purple)/`Automation Projects, Ansible & kestra`
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-purple)/`Docker Engine, Swarm, Compose, Portainer`
-- ![Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/`alprojects1@pm.me`
+- ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/`alprojects1@pm.me` >< `collabs@alprojects.org`
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
-- ![Fun Fact#2](https://img.shields.io/badge/-Fun%20fact-purple) `Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/team/234771)
-- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple) `#77 Nationally on` [hwbot](https://hwbot.org/user/gizm01/)
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/team/234771)
+- ![Fun Fact2](https://img.shields.io/badge/-Fun%20fact2-purple)/`#77 Nationally on` [hwbot](https://hwbot.org/user/gizm01/)
 
 
 ---
