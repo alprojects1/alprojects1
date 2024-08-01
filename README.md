@@ -9,15 +9,14 @@ If I am not working on projects, learning something new, or continuing to improv
 ---
 ## What I am doing! 🤓
 
+- ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-purple)/`Homelabs, Documentation, Scripting` 
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-purple)/`Automation Projects, Ansible & kestra`
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-purple)/`Docker Engine, Swarm, Compose, Portainer`
-- ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-purple)/`Homelabs, Documentation, Scripting` 
-- ![Looking for Help](https://img.shields.io/badge/-I’m%20looking%20for%20help%20with-purple)/`Documentation, Best-Practices`
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRM Tunning`
+- ![Looking for Help](https://img.shields.io/badge/-I’m%20looking%20for%20help%20with-purple)/`Documentation, Best-Practices`
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`#77 Nationally on https://hwbot.org/user/gizm01/`
 - ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/`TBA`
 - ![Pronouns](https://img.shields.io/badge/-Pronouns-purple)/`He/Him`
-- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`#77 Nationally on https://hwbot.org/user/gizm01/`
-
 ---
 ## My Setup & Homelab! 🖥️/🥼
 
