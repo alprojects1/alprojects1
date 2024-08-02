@@ -24,8 +24,13 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 - <img alt="Fun fact" src="https://img.shields.io/badge/Fun%20fact-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://stats.foldingathome.org/donor/id/711520587" title="Folding@Home"><img alt="Folding@Home" src="https://img.shields.io/badge/Folding@Home-Alzheimer's%20Disease%20research-orange?style=for-the-badge" height="30" align="center"/></a>
 
 - <img alt="Fun fact2" src="https://img.shields.io/badge/Fun%20fact2-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://hwbot.org/user/gizm01/" title="hwbot"><img alt="Hardware Overclocking" src="https://img.shields.io/badge/Hardware%20Overclocking-HWBot-4c6ef5?style=for-the-badge" height="30" align="center"/></a>
----
 
+---
+## My Skills! 🤹
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,windows,debian,redhat,arch,ubuntu,docker,cloudflare,vim,vscode,github,git,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,raspberrypi,stackoverflow,pycharm,obsidian,html,css,&perline=)](#)
+
+---
 ## My Setup & Homelab! 🖥️/🥼
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
