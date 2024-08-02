@@ -9,10 +9,12 @@ If I am not working on projects, learning something new, or continuing to improv
 ---
 ## What I am doing! 🤓
 
-- ![Looking to Collaborate](https://img.shields.io/badge/-I’m%20looking%20to%20collaborate%20on-purple)/`Homelabs, Documentation, Scripting` 
+- ![Looking to Collaborate](https://img.shields.io/badge/-I'm%20looking%20to%20collaborate%20on-purple) <img alt="Homelabs" src="https://img.shields.io/badge/Homelabs-blue?style=for-the-badge" height="30" align="center"/> <img alt="Documentation" src="https://img.shields.io/badge/Documentation-green?style=for-the-badge" height="30" align="center"/> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-darkpurple?style=for-the-badge" height="30" align="center"/>
+
+  
 - ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-purple)/`Automation Projects, Ansible & kestra`
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-purple)/`Docker Engine, Swarm, Compose, Portainer`
-- ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/ <a href="mailto:collabs@alprojects.org" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&logo=proton&logoColor=white" height="30" align="center"/></a> <a href="https://discord.com" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-g1zm07-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" align="center"/></a>
+- ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple) <a href="mailto:collabs@alprojects.org" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&logo=proton&logoColor=white" height="30" align="center"/></a> <a href="https://discord.com" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-g1zm07-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" align="center"/></a>
 
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
 - ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/donor/id/711520587)
