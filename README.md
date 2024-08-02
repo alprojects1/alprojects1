@@ -14,7 +14,7 @@ If I am not working on projects, learning something new, or continuing to improv
 - ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-purple)/`Docker Engine, Swarm, Compose, Portainer`
 - ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple)/`alprojects1@pm.me` >< `collabs@alprojects.org`
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
-- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/team/234771)
+- ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/donor/id/711520587)
 - ![Fun Fact2](https://img.shields.io/badge/-Fun%20fact2-purple)/`#77 Nationally on` [hwbot](https://hwbot.org/user/gizm01/)
 ---
 ## My Setup & Homelab! 🖥️/🥼
