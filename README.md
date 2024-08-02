@@ -1,13 +1,14 @@
 ## Hi there! 👋  
 
-I'm AI, and I'm passionate about hardware tweaking, home-labs, and engaging in conversations with IT pros and Homelab enthusiasts alike and aiding in help where ever I can. 
+I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home-labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can, 
+In my spare time, I dedicate myself to learning new things or honing the skills I already possess. 
 
-Through my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations. 
+Through academics & my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations. 
 
-If I am not working on projects, learning something new, or continuing to improve my current configurations, I am involved in three IT-focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 1, 2, and 3 helper was posted. I got hired shortly after joining the server. A ticketing system allows all members to leave a ticket for any issues they have, and myself, along with two others, assist in resolving all these issues 24/48 hours.
+Involved in three IT/Security focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 3 helper was posted. I got hired shortly after joining the server. we utilize a ticketing system that allows all members to leave a ticket for any issues they have, and myself, along with two other helpers, assist in resolving all these issues 24/48 hours.
 
 ---
-## What I am doing! 🤓
+## Activities! 🤓
 
 - <img alt="I'm looking to collaborate on" src="https://img.shields.io/badge/I'm%20looking%20to%20collaborate%20on-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://github.com/alprojects1/home-lab" title="Homelabs"><img alt="Homelabs" src="https://img.shields.io/badge/Homelabs-blue?style=for-the-badge" height="30" align="center"/></a> <a href="https://github.com/alprojects1/cheat-sheet" title="Documentation"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-green?style=for-the-badge" height="30" align="center"/></a> <a href="https://github.com/alprojects1/boilerplates" title="Scripting"><img alt="Scripting" src="https://img.shields.io/badge/Scripting-4B0082?style=for-the-badge" height="30" align="center"/></a>
 
