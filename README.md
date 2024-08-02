@@ -19,12 +19,13 @@ If I am not working on projects, learning something new, or continuing to improv
 ---
 ## My Setup & Homelab! 🖥️/🥼
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" style="width: 1500px;">
-</p> 
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
+</p>
 
 | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png" alt="Profile Image" width="600"/> | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk hq.png" alt="Profile Image" width="600"/> |
 | --- | --- |
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" style="width: 1500px;">
-</p> 
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=footer" style="width: 1500px;">
+</p>
+
