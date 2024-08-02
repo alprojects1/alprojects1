@@ -9,11 +9,13 @@ If I am not working on projects, learning something new, or continuing to improv
 ---
 ## What I am doing! 🤓
 
-- ![Looking to Collaborate](https://img.shields.io/badge/-I'm%20looking%20to%20collaborate%20on-purple) <img alt="Homelabs" src="https://img.shields.io/badge/Homelabs-blue?style=for-the-badge" height="30" align="center"/> <img alt="Documentation" src="https://img.shields.io/badge/Documentation-green?style=for-the-badge" height="30" align="center"/> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-darkpurple?style=for-the-badge" height="30" align="center"/>
+- ![Looking to Collaborate](https://img.shields.io/badge/-I'm%20looking%20to%20collaborate%20on-purple) <img alt="Homelabs" src="https://img.shields.io/badge/Homelabs-blue?style=for-the-badge" height="30" align="center"/> <img alt="Documentation" src="https://img.shields.io/badge/Documentation-green?style=for-the-badge" height="30" align="center"/> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-4B0082?style=for-the-badge" height="30" align="center"/>
 
   
-- ![Currently Working On](https://img.shields.io/badge/-I’m%20currently%20working%20on-purple)/`Automation Projects, Ansible & kestra`
-- ![Currently Learning](https://img.shields.io/badge/-I’m%20currently%20learning-purple)/`Docker Engine, Swarm, Compose, Portainer`
+- ![I'm currently working on](https://img.shields.io/badge/-I'm%20currently%20working%20on-purple) <img alt="Automation Projects" src="https://img.shields.io/badge/Automation%20Projects-gray?style=for-the-badge" height="30" align="center"/> <img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?style=for-the-badge" height="30" align="center"/> <img alt="kestra" src="https://img.shields.io/badge/kestra-purple?style=for-the-badge" height="30" align="center"/>
+
+- ![I'm currently learning](https://img.shields.io/badge/-I'm%20currently%20learning-purple)/ <img alt="Docker Engine" src="https://img.shields.io/badge/Docker%20Engine-0db7ed?style=for-the-badge" height="30" align="center"/> <img alt="Swarm" src="https://img.shields.io/badge/Swarm-1d78c1?style=for-the-badge" height="30" align="center"/> <img alt="Compose" src="https://img.shields.io/badge/Compose-1c91ed?style=for-the-badge" height="30" align="center"/> <img alt="Portainer" src="https://img.shields.io/badge/Portainer-0073aa?style=for-the-badge" height="30" align="center"/>
+  
 - ![How to Reach Me](https://img.shields.io/badge/-How%20to%20reach%20me-purple) <a href="mailto:collabs@alprojects.org" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&logo=proton&logoColor=white" height="30" align="center"/></a> <a href="https://discord.com" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-g1zm07-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" align="center"/></a>
 
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
