@@ -20,7 +20,7 @@ If I am not working on projects, learning something new, or continuing to improv
 
 - ![Ask me about](https://img.shields.io/badge/-Ask%20me%20about-purple) <img alt="Hardware Diagnostics" src="https://img.shields.io/badge/Hardware%20Diagnostics-006400?style=for-the-badge" height="30" align="center"/> <img alt="Cooling" src="https://img.shields.io/badge/Cooling-red?style=for-the-badge" height="30" align="center"/> <img alt="BIOS/UEFI" src="https://img.shields.io/badge/BIOS/UEFI-orange?style=for-the-badge" height="30" align="center"/> <img alt="VRMs" src="https://img.shields.io/badge/VRMs-yellow?style=for-the-badge" height="30" align="center"/>
 
-- ![Fun fact](https://img.shields.io/badge/-Fun%20fact-purple) <a href="[https://foldingathome.org/](https://stats.foldingathome.org/donor/id/711520587)" title="Folding@Home"><img alt="Folding@Home" src="https://img.shields.io/badge/Folding@Home-Alzheimer's%20Disease%20research-orange?style=for-the-badge" height="30" align="center"/></a>
+- ![Fun fact](https://img.shields.io/badge/-Fun%20fact-purple)/ <a href="https://stats.foldingathome.org/donor/id/711520587" title="Folding@Home"><img alt="Folding@Home" src="https://img.shields.io/badge/Folding@Home-Alzheimer's%20Disease%20research-orange?style=for-the-badge" height="30" align="center"/></a>
 
 - ![Fun fact2](https://img.shields.io/badge/-Fun%20fact2-purple) <a href="https://hwbot.org/user/gizm01/" title="hwbot"><img alt="hwbot" src="https://img.shields.io/badge/hwbot-4c6ef5?style=for-the-badge" height="30" align="center"/></a>
 ---
