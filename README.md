@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋  
 
 I'm AI, and I'm passionate about hardware tweaking, home-labs, and engaging in conversations with IT pros and Homelab enthusiasts alike and aiding in help where ever I can. 
 
@@ -16,11 +16,15 @@ If I am not working on projects, learning something new, or continuing to improv
 - ![Ask Me About](https://img.shields.io/badge/-Ask%20me%20about-purple)/`Hardware Diagnostics, Cooling, BIOS/UEFI, VRMs`
 - ![Fun Fact](https://img.shields.io/badge/-Fun%20fact-purple)/`Alzheimer’s Disease research` [Folding@Home](https://stats.foldingathome.org/team/234771)
 - ![Fun Fact2](https://img.shields.io/badge/-Fun%20fact2-purple)/`#77 Nationally on` [hwbot](https://hwbot.org/user/gizm01/)
-
-
 ---
 ## My Setup & Homelab! 🖥️/🥼
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" style="width: 1500px;">
+</p> 
 
 | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk.png" alt="Profile Image" width="600"/> | <img src="https://github.com/Sh3llSh0cker/Sh3llSh0cker/raw/main/clockwerk hq.png" alt="Profile Image" width="600"/> |
 | --- | --- |
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" style="width: 1500px;">
+</p> 
