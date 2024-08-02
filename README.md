@@ -1,4 +1,4 @@
-## Hi there! 👋  
+## My Story! 👋  
 
 I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home-labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can, 
 In my spare time, I dedicate myself to learning new things or honing the skills I already possess. 
@@ -8,7 +8,7 @@ Through academics & my self-learning journey, forums, and reaching out to indust
 Involved in three IT/Security focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 3 helper was posted. I got hired shortly after joining the server. we utilize a ticketing system that allows all members to leave a ticket for any issues they have, and myself, along with two other helpers, assist in resolving all these issues 24/48 hours.
 
 ---
-## Activities! 🤓
+## My Activities! 🤓
 
 - <img alt="I'm looking to collaborate on" src="https://img.shields.io/badge/I'm%20looking%20to%20collaborate%20on-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://github.com/alprojects1/home-lab" title="Homelabs"><img alt="Homelabs" src="https://img.shields.io/badge/Homelabs-blue?style=for-the-badge" height="30" align="center"/></a> <a href="https://github.com/alprojects1/cheat-sheet" title="Documentation"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-green?style=for-the-badge" height="30" align="center"/></a> <a href="https://github.com/alprojects1/boilerplates" title="Scripting"><img alt="Scripting" src="https://img.shields.io/badge/Scripting-4B0082?style=for-the-badge" height="30" align="center"/></a>
 
