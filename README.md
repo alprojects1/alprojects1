@@ -1,4 +1,4 @@
-## My Story! 👋  
+## My 📕Story!   
 
 I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home-labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can, 
 In my spare time, I dedicate myself to learning new things or honing the skills I already possess. 
@@ -8,7 +8,7 @@ Through academics & my self-learning journey, forums, and reaching out to indust
 Involved in three IT/Security focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 3 helper was posted. I got hired shortly after joining the server. we utilize a ticketing system that allows all members to leave a ticket for any issues they have, and myself, along with two other helpers, assist in resolving all these issues 24/48 hours.
 
 ---
-## My Skills & Tools! 🤹
+## My 🤹Skills & 🧰Tools! 
  
 <div align="center">
 
@@ -17,7 +17,7 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 </div>
 
 ---
-## My Activities & Contact! 🤓
+## My 🤓Activities & ☎️Contact! 
 
 <div align="center">
  
@@ -38,7 +38,7 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 </div>
 
 ---
-## My Setup & Homelab! 🖥️/🥼
+## My 🖥️Setup & 🥼Homelab!
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
 </p>
