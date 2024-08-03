@@ -8,7 +8,7 @@ Through academics & my self-learning journey, forums, and reaching out to indust
 Involved in three IT/Security focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 3 helper was posted. I got hired shortly after joining the server. we utilize a ticketing system that allows all members to leave a ticket for any issues they have, and myself, along with two other helpers, assist in resolving all these issues 24/48 hours.
 
 ---
-## My Skills! 🤹 [Stong to weak]
+## My Skills & Tools! 🤹
  
 <div align="center">
 
@@ -17,7 +17,7 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 </div>
 
 ---
-## My Activities! 🤓
+## My Activities & Contact! 🤓
 
 <div align="center">
  
