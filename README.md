@@ -14,7 +14,6 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 
 - <img alt="I'm currently working on" src="https://img.shields.io/badge/I'm%20currently%20working%20on-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://gethomepage.dev/latest/" title="HomePage"><img alt="HomePage" src="https://img.shields.io/badge/HomePage-008080?style=for-the-badge" height="30" align="center"/></a> <a href="https://www.ansible.com/" title="Ansible"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?style=for-the-badge" height="30" align="center"/></a> <a href="https://kestra.io/" title="Kestra"><img alt="Kestra" src="https://img.shields.io/badge/kestra-purple?style=for-the-badge" height="30" align="center"/></a>
 
-
 - <img alt="I'm currently learning" src="https://img.shields.io/badge/I'm%20currently%20learning-darkgray?style=for-the-badge" height="30" align="center"/> <img alt="Docker Engine" src="https://img.shields.io/badge/Docker%20Engine-0db7ed?style=for-the-badge" height="30" align="center"/> <img alt="Swarm" src="https://img.shields.io/badge/Swarm-1d78c1?style=for-the-badge" height="30" align="center"/> <img alt="Compose" src="https://img.shields.io/badge/Compose-1c91ed?style=for-the-badge" height="30" align="center"/> <img alt="Portainer" src="https://img.shields.io/badge/Portainer-0073aa?style=for-the-badge" height="30" align="center"/>
 
 - <img alt="How to Reach Me" src="https://img.shields.io/badge/How%20to%20reach%20me-darkgray?style=for-the-badge" height="30" align="center"/> <a href="mailto:collabs@alprojects.org" title="Email"><img alt="Email" src="https://img.shields.io/badge/Proton-8B89C4?style=for-the-badge&logo=proton&logoColor=white" height="30" align="center"/></a> <a href="https://discord.com" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-g1zm07-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" align="center"/></a>
@@ -26,9 +25,9 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 - <img alt="Fun fact2" src="https://img.shields.io/badge/Fun%20fact2-darkgray?style=for-the-badge" height="30" align="center"/> <a href="https://hwbot.org/user/gizm01/" title="hwbot"><img alt="Hardware Overclocking" src="https://img.shields.io/badge/Hardware%20Overclocking-HWBot-4c6ef5?style=for-the-badge" height="30" align="center"/></a>
 
 ---
-## My Skills! 🤹
-
-[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,atom,vscode,github,git,gitlab,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,raspberrypi,stackoverflow,pycharm,obsidian,html,css,js&perline=16)](#)
+## My Skills! 🤹 [Stong to weak]
+ 
+[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,atom,vscode,github,git,gitlab,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,pycharm,raspberrypi,stackoverflow,obsidian,html,css,js&perline=16)](#)
 
 ---
 ## My Setup & Homelab! 🖥️/🥼
