@@ -28,7 +28,7 @@ Involved in three IT/Security focused Discord communities. Each server has almos
 ---
 ## My Skills! 🤹
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,windows,debian,redhat,arch,ubuntu,docker,cloudflare,vim,vscode,github,git,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,raspberrypi,stackoverflow,pycharm,obsidian,html,css,&perline=)](#)
+[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,atom,vscode,github,git,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,raspberrypi,stackoverflow,pycharm,obsidian,html,css,&perline=16)](#)
 
 ---
 ## My Setup & Homelab! 🖥️/🥼
