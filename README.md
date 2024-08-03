@@ -12,7 +12,7 @@ Involved in three IT/Security focused Discord communities. Each server has almos
  
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,atom,vscode,github,git,gitlab,postman,kubernetes,terraform,swift,sqlite,mysql,mongodb,py,pycharm,raspberrypi,stackoverflow,obsidian,html,css,js&perline=16)](#)
+[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,vscode,github,git,gitlab,postman,kubernetes,grafana,terraform,swift,sqlite,mysql,mongodb,py,pycharm,raspberrypi,stackoverflow,obsidian,html,css,js&perline=16)](#)
 
 </div>
 
