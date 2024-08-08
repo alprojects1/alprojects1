@@ -1,11 +1,11 @@
 ## My 📕Story!   
 
-I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home-labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can, 
-In my spare time, I dedicate myself to learning new things or honing the skills I already possess. 
+I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home Labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can. In my spare time, I dedicate myself to learning new things or honing the skills I already possess.
 
-Through academics & my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations. 
+Through academics and my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations.
 
-Involved in three IT/Security focused Discord communities. Each server has almost 5,000 members. In one of these servers, a position for Tier 3 helper was posted. I got hired shortly after joining the server. we utilize a ticketing system that allows all members to leave a ticket for any issues they have, and myself, along with two other helpers, assist in resolving all these issues 24/48 hours.
+As of writing, I have about 10,000 hours of combined IT and infrastructure knowledge, as well as the ability to practically demonstrate said skills or processes. I am always seeking to grow. Front-end coding is a new domain for me, and as such, I only have a few hundred hours of experience in it, but this will grow as time goes on. While my repositories may not be directly coding-related, they contain best practice guides and write-ups that can boost any professional's workflow, operating system, or security!
+
 
 ---
 ## My 🤹Skills & 🧰Tools! 
