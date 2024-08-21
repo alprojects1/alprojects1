@@ -1,6 +1,6 @@
 ## My 📕Story!   
 
-I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home Labs. I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can. In my spare time, I dedicate myself to learning new things or honing the skills I already possess.
+I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home Labs. with a focus on IaC & SaC, I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can. In my spare time, I dedicate myself to learning new things or honing the skills I already possess.
 
 Through academics and my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations.
 
