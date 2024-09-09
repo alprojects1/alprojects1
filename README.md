@@ -3,9 +3,6 @@
   <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
 </p>
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/-110-purple?style=for-the-badge" alt="Visitor Count">
-</p>
 
 <h2>🌍 🄹🄾🅄🅁🄽🄴🅈</h2>
 
