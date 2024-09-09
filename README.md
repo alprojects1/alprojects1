@@ -1,4 +1,12 @@
-<h2>📖 &nbsp; M Y &nbsp; S T O R Y !</h2>
+<h2 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 🅅🄸🅂🄸🅃🄾🅁 🄲🄾🅄🄽🅃</h2> 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
+</p>
+
+
+
+
+<h2>🌍 🄹🄾🅄🅁🄽🄴🅈</h2>
 
 ### I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home Labs. with a focus on IaC & SaC, I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can. In my spare time, I dedicate myself to learning new prodecures or honing the skills I already possess.
 
@@ -8,17 +16,18 @@
 
 
 ---
-<h2>🧠 &nbsp; M Y &nbsp; S K I L L S &nbsp; & &nbsp; 🛠️ &nbsp; T O O L S !</h2>
+<h2>🧠 🅂🄺🄸🄻🄻🅂 🄰🄽🄳 🅃🄾🄾🄻🅂 🛠️</h2>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,windows,azure,aws,debian,bash,redhat,arch,ubuntu,docker,cloudflare,vim,vscode,github,git,gitlab,postman,kubernetes,grafana,terraform,swift,sqlite,mysql,mongodb,py,pycharm,raspberrypi,stackoverflow,obsidian,html,css,js&perline=16)](#)
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash,windows,azure,aws,debian,redhat,arch,ubuntu,kubernetes,terraform,swift,py,html,css,js,docker,cloudflare,vim,vscode,github,git,gitlab,postman,grafana,sqlite,mysql,mongodb,pycharm,raspberrypi,stackoverflow,obsidian&perline=16)](#)
 
 </div>
 
 ---
 
-<h2>🤓 &nbsp; M Y &nbsp; A C T I V I T I E S &nbsp; & &nbsp; ☎️ &nbsp; C O N T A C T !</h2>
+<h2>🎯 🄰🄲🅃🄸🅅🄸🅃🄸🄴🅂 🄰🄽🄳 🄲🄾🄽🅃🄰🄲🅃 ✉️</h2>
+ 
 
 <div align="center">
  
@@ -40,7 +49,7 @@
 
 ---
 
-<h2>💻 &nbsp; M Y &nbsp; S E T U P &nbsp; & &nbsp; 🥼 &nbsp; H O M E L A B !</h2>
+<h2>🏗️ 🄸🄽🄵🅁🄰🅂🅃🅁🅄🄲🅃🅄🅁🄴 🄰🄽🄳 🅂🄴🅃🅄🄿 💻</h2>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
