@@ -19,10 +19,46 @@
 <h2>🧠 🅂🄺🄸🄻🄻🅂 🄰🄽🄳 🅃🄾🄾🄻🅂 🛠️</h2>
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=powershell,bash,windows,azure,aws,debian,redhat,arch,ubuntu,kubernetes,terraform,swift,py,html,css,js,docker,cloudflare,vim,vscode,github,git,gitlab,postman,grafana,sqlite,mysql,mongodb,pycharm,raspberrypi,stackoverflow,obsidian&perline=16)](#)
-
+  <table>
+    <tr>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=powershell" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=bash" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=windows" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=azure" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=aws" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=debian" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=redhat" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=arch" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=kubernetes" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=terraform" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=swift" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=py" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=html" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=css" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=js" height="45" /></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=docker" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=cloudflare" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=vim" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=vscode" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=github" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=git" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=gitlab" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=postman" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=grafana" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=sqlite" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=mysql" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=mongodb" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=pycharm" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=raspberrypi" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=obsidian" height="30" /></td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
@@ -98,7 +134,6 @@
   </table>
 
 </div>
-
 
 ---
 
