@@ -23,7 +23,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=powershell" height="60" /></td>
+      <td align="center" style="padding:05px;"><img src="https://skillicons.dev/icons?i=powershell" height="60" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=bash" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=windows" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=azure" height="45" /></td>
@@ -56,7 +56,7 @@
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=pycharm" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=raspberrypi" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45" /></td>
-      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=obsidian" height="30" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=obsidian" height="45" /></td>
     </tr>
   </table>
 </div>
