@@ -6,11 +6,13 @@
 
 <h2>🌍 🄹🄾🅄🅁🄽🄴🅈</h2>
 
-### I'm Al, and I am passionate about Automation, Infrastructure, Security, and Home Labs. with a focus on IaC & SaC, I enjoy engaging with IT professionals and home lab enthusiasts, offering help and support wherever I can. In my spare time, I dedicate myself to learning new prodecures or honing the skills I already possess.
+---
+ 
+### My name is Al, and I am enthusiastic about Automation, Infrastructure, Security, and Home Labs. I focus on Infrastructure as Code (IaC) and Security as Code (SaC) and enjoy interacting with IT professionals and home lab enthusiasts, providing help and support whenever possible. In my free time, I dedicate myself to learning new procedures and refining my existing skills. 
 
-### Through academics, my self-learning journey, forums, and reaching out to industry leaders, I seek to grow and validate my understanding with large communities. I write tutorials and detailed guides on complex topics in an easy-to-understand format for like-minded professionals. Whether you're a tech enthusiast or just someone curious about IT, let's have a conversation. My content offers valuable insights and practical knowledge that I have gathered by reading thousands of hours of wikis, documentation, and reaching out to vendors or project support teams while performing configurations.
+### I aim to expand and validate my understanding within large communities through academic studies, self-learning, participation in forums, and connecting with industry leaders. I create tutorials and detailed guides on complex topics in a format that is easy to understand for like-minded professionals. Whether you are a tech enthusiast or someone curious about IT, I am always open to having a conversation. My content offers valuable insights and practical knowledge acquired from extensive research, reading documentation, and reaching out to vendors and project support teams to perform configurations.
 
-### As of writing, I have 62,093+ hours (and counting) of combined IT & infrastructure knowledge with a fast growing area in Appliction security, as well as the ability to practically demonstrate said skills or processes and prodecures. I am always seeking to grow. SaC and front-end coding is a new domain for me, and as such, I only have a few hundred hours of experience in it, but this will grow as time goes on. While my repositories may not be directly coding-related, they contain best practice guides and write-ups that can boost any professional's workflow, configuration, or security and i will go out of my way to make sure they stay updated and relevant! 
+### At the moment, I have accumulated over 62,093 hours of combined IT and infrastructure knowledge, with a growing focus on Application Security. I possess the ability to demonstrate skills, processes, and procedures practically. I am currently concentrating on Security as Code, Python for backend automation, and plan to learn and implement them over the next few months. While my repositories may not directly relate to front-end coding, they contain best practice guides and write-ups that can enhance any professional's workflow, configuration, or security. I ensure that they are kept up to date and relevant.
 
 
 ---
