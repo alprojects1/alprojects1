@@ -21,7 +21,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=powershell" height="45" /></td>
+      <td align="center" style="padding:5px;"><img src="https://skillicons.dev/icons?i=powershell" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=bash" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=windows" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=azure" height="45" /></td>
