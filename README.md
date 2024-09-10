@@ -1,10 +1,14 @@
-<h1 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 🅅🄸🅂🄸🅃🄾🅁 🄲🄾🅄🄽🅃</h1> 
+<h3 align="center" style="font-size: 32px; font-family: 'Courier New', monospace;">👥 🅅🄸🅂🄸🅃🄾🅁 🄲🄾🅄🄽🅃</h3> 
+
+---
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
 </p>
 
 
-# 🌍 🄹🄾🅄🅁🄽🄴🅈
+### 🌍 🄹🄾🅄🅁🄽🄴🅈
+---
 
 ### My name is Al, and I am enthusiastic about Automation, Infrastructure, Security, and Home Labs. I focus on Infrastructure as Code (IaC) and Security as Code (SaC) and enjoy interacting with IT professionals and home lab enthusiasts, providing help and support whenever possible. In my free time, I dedicate myself to learning new procedures and refining my existing skills. 
 
@@ -13,7 +17,8 @@
 ### At the moment, I have accumulated over 62,093 hours of combined IT and infrastructure knowledge, with a growing focus on Application Security. I possess the ability to demonstrate skills, processes, and procedures practically. I am currently concentrating on Security as Code, Python for backend automation, and plan to learn and implement them in several projects over the next few months. While my repositories may not directly relate to front-end coding, they contain best practice guides and write-ups that can enhance any professional's workflow, configuration, or security. I ensure that they are kept up to date and relevant as much as I can!
 
 
-# 🧠 🅂🄺🄸🄻🄻🅂 🄰🄽🄳 🅃🄾🄾🄻🅂 🛠️
+### 🧠 🅂🄺🄸🄻🄻🅂 🄰🄽🄳 🅃🄾🄾🄻🅂 🛠️
+---
 
 <div align="center">
   <table>
@@ -56,7 +61,8 @@
   </table>
 </div>
 
-# 🎯 🄰🄲🅃🄸🅅🄸🅃🄸🄴🅂 🄰🄽🄳 🄲🄾🄽🅃🄰🄲🅃 ✉️
+### 🎯 🄰🄲🅃🄸🅅🄸🅃🄸🄴🅂 🄰🄽🄳 🄲🄾🄽🅃🄰🄲🅃 ✉️
+---
  
 <div align="center">
   
@@ -130,7 +136,8 @@
 </div>
 
 
-# 🏗️ 🄸🄽🄵🅁🄰🅂🅃🅁🅄🄲🅃🅄🅁🄴 🄰🄽🄳 🅂🄴🅃🅄🄿 💻
+### 🏗️ 🄸🄽🄵🅁🄰🅂🅃🅁🅄🄲🅃🅄🅁🄴 🄰🄽🄳 🅂🄴🅃🅄🄿 💻
+---
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,70:BA55D3&height=70&section=header" style="width: 1500px;">
