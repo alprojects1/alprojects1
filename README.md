@@ -7,21 +7,19 @@
 <h2>🌍 🄹🄾🅄🅁🄽🄴🅈</h2>
 
 ---
- 
-### My name is Al, and I am enthusiastic about Automation, Infrastructure, Security, and Home Labs. I focus on Infrastructure as Code (IaC) and Security as Code (SaC) and enjoy interacting with IT professionals and home lab enthusiasts, providing help and support whenever possible. In my free time, I dedicate myself to learning new procedures and refining my existing skills. 
+ ### My name is Al, and I am enthusiastic about Automation, Infrastructure, Security, and Home Labs. I focus on Infrastructure as Code (IaC) and Security as Code (SaC) and enjoy interacting with IT professionals and home lab enthusiasts, providing help and support whenever possible. In my free time, I dedicate myself to learning new procedures and refining my existing skills. 
 
 ### I aim to expand and validate my understanding within large communities through academic studies, self-learning, participation in forums, and connecting with industry leaders. I create tutorials and detailed guides on complex topics in a format that is easy to understand for like-minded professionals. Whether you are a tech enthusiast or someone curious about IT, I am always open to having a conversation. My content offers valuable insights and practical knowledge acquired from extensive research, reading documentation, and reaching out to vendors and project support teams to perform configurations.
 
-### At the moment, I have accumulated over 62,093 hours of combined IT and infrastructure knowledge, with a growing focus on Application Security. I possess the ability to demonstrate skills, processes, and procedures practically. I am currently concentrating on Security as Code, Python for backend automation, and plan to learn and implement them over the next few months. While my repositories may not directly relate to front-end coding, they contain best practice guides and write-ups that can enhance any professional's workflow, configuration, or security. I ensure that they are kept up to date and relevant.
-
-
+### At the moment, I have accumulated over 62,093 hours of combined IT and infrastructure knowledge, with a growing focus on Application Security. I possess the ability to demonstrate skills, processes, and procedures practically. I am currently concentrating on Security as Code, Python for backend automation, and plan to learn and implement them in several projects over the next few months. While my repositories may not directly relate to front-end coding, they contain best practice guides and write-ups that can enhance any professional's workflow, configuration, or security. I ensure that they are kept up to date and relevant as much as I can!
 ---
+
 <h2>🧠 🅂🄺🄸🄻🄻🅂 🄰🄽🄳 🅃🄾🄾🄻🅂 🛠️</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding:5px;"><img src="https://skillicons.dev/icons?i=powershell" height="45" /></td>
+      <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=powershell" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=bash" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=windows" height="45" /></td>
       <td align="center" style="padding:10px;"><img src="https://skillicons.dev/icons?i=azure" height="45" /></td>
@@ -58,7 +56,6 @@
     </tr>
   </table>
 </div>
-
 
 ---
 
