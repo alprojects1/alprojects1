@@ -6,6 +6,7 @@
   <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
 </p>
 
+![pv](https://pageview.vercel.app/?github_user=Alprojects1)
 
 ### 🌍 🄹🄾🅄🅁🄽🄴🅈
 ---
