@@ -6,7 +6,10 @@
   <img src="https://profile-counter.glitch.me/Alprojects1/count.svg"/>
 </p>
 
-![pv](https://pageview.vercel.app/?github_user=Alprojects1)
+<div align="center">
+  <img src="https://img.shields.io/badge/visitors-601-purple?style=flat-square" alt="Visitors Badge" />
+</div>
+
 
 ### 🌍 🄹🄾🅄🅁🄽🄴🅈
 ---
